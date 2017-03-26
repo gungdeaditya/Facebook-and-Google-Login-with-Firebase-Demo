@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase Facebook and Google Auth Demo</string>
+    <string name="facebook_app_id">YOUR_FACEBOOK_ID</string>
+</resources>
